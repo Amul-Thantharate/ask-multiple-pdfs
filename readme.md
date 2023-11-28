@@ -38,6 +38,11 @@ To install the MultiPDF Chat App, please follow these steps:
 OPENAI_API_KEY=your_secrit_api_key
 ```
 
+4. Obtain an api key from Hugging face and add to `.env` file int the root directory
+```   
+Hugging Face=your_secrit_api_key
+```
+
 ## Usage
 -----
 To use the MultiPDF Chat App, follow these steps:
